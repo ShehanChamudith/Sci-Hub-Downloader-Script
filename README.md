@@ -50,6 +50,6 @@ Example:
 
 ## ⚠️ Disclaimer
 
--This script accesses Sci-Hub, which may be restricted in your country or institution.
--This project is intended strictly for academic, educational, and research use only.
--Use responsibly and comply with local laws.
+- This script accesses Sci-Hub, which may be restricted in your country or institution.
+- This project is intended strictly for academic, educational, and research use only.
+- Use responsibly and comply with local laws.
