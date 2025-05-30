@@ -37,8 +37,8 @@ Example:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/scihub-downloader.git
-   cd scihub-downloader
+   git clone https://github.com/ShehanChamudith/Sci-Hub-Downloader-Script.git
+   cd Sci-Hub-Downloader-Script
 
 2. **Install Dependencies**:
     ```bash
